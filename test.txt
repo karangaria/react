@@ -1,0 +1,6 @@
+1.React => React is a javascript framework , it is used to make websites without reload.
+2.
+2.1 React is not  SEO-friendly
+2.2 React is not suitable to small website more complex.
+3.UseState() => it is used to store data in localStorage.
+7.Data manipulation dyamic in frontend.
